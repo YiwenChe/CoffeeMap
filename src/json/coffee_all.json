@@ -1,0 +1,60 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Whitney Museum",
+        "description": "The Whitney Museum of American Art, known informally as 'The Whitney', is an art museum in the Meatpacking District and West Village neighborhoods."
+      },
+      "geometry": {
+        "coordinates": [-74.0089, 40.7396],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Vessel",
+        "description": "Vessel is a structure and visitor attraction built as part of the Hudson Yards Redevelopment Project."
+      },
+      "geometry": {
+        "coordinates": [-74.0021, 40.7538],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Little Island",
+        "description": "Little Island is a new public park where all New Yorkers and visitors can experience nature and art in a unique urban oasis on the Hudson River."
+      },
+      "geometry": {
+        "coordinates": [-74.0100, 40.7421],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "The Shed",
+        "description": "In the center of Hudson Yard, the Shed commissions, produces, and presents a wide range of activities in performing arts, visual arts, and pop culture."
+      },
+      "geometry": {
+        "coordinates": [-74.0029, 40.7533],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ARTECHOUSE NYC",
+        "description": "Futuristic space with a focus on using vivid, interactive technology to explore art & science."
+      },
+      "geometry": {
+        "coordinates": [-74.0062, 40.7427],
+        "type": "Point"
+      }
+    }
+  ],
+  "type": "FeatureCollection"
+}
