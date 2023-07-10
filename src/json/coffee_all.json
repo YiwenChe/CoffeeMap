@@ -3,55 +3,55 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Whitney Museum",
-        "description": "The Whitney Museum of American Art, known informally as 'The Whitney', is an art museum in the Meatpacking District and West Village neighborhoods."
+        "title": "BKG Coffee Roaster",
+        "description": "Brooklyn-roasted gourmet coffee & snacks in a relaxed, rustic space offering outdoor seating."
       },
       "geometry": {
-        "coordinates": [-74.0089, 40.7396],
+        "coordinates": [-73.95871269178271, 40.69441902249406],
         "type": "Point"
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Vessel",
-        "description": "Vessel is a structure and visitor attraction built as part of the Hudson Yards Redevelopment Project."
+        "title": "Blue Bottle Coffee",
+        "description": "Trendy cafe chain offering upscale coffee drinks & pastries, plus beans & brewing equipment."
       },
       "geometry": {
-        "coordinates": [-74.0021, 40.7538],
+        "coordinates": [-74.01133020556907, 40.70746195218451],
         "type": "Point"
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Little Island",
-        "description": "Little Island is a new public park where all New Yorkers and visitors can experience nature and art in a unique urban oasis on the Hudson River."
+        "title": "Joe Coffee Company",
+        "description": "Outpost of a local mini-chain serving house-roasted coffee & espresso drinks, plus pastries."
       },
       "geometry": {
-        "coordinates": [-74.0100, 40.7421],
+        "coordinates": [-74.01121476689903, 40.71325982390452],
         "type": "Point"
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "The Shed",
-        "description": "In the center of Hudson Yard, the Shed commissions, produces, and presents a wide range of activities in performing arts, visual arts, and pop culture."
+        "title": "Abraço",
+        "description": "Espresso, baked goods & savory small plates are served at this busy East Village counter-serve spot."
       },
       "geometry": {
-        "coordinates": [-74.0029, 40.7533],
+        "coordinates": [-73.9857925534196, 40.727387975394606],
         "type": "Point"
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "ARTECHOUSE NYC",
-        "description": "Futuristic space with a focus on using vivid, interactive technology to explore art & science."
+        "title": "Stumptown Coffee Roasters",
+        "description": "Coffee bar chain offering house-roasted direct-trade coffee, along with brewing gear & whole beans"
       },
       "geometry": {
-        "coordinates": [-74.0062, 40.7427],
+        "coordinates": [-73.98668548020775, 40.746128728722425],
         "type": "Point"
       }
     }

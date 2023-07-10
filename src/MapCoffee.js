@@ -1,11 +1,12 @@
 import React, { useRef, useEffect, useState } from 'react';
 import mapboxgl from '!mapbox-gl'; // eslint-disable-line import/no-webpack-loader-syntax
 import geoJson from "./json/coffee_all.json";
+import "./MapCoffee.css";
 
 mapboxgl.accessToken = 'pk.eyJ1IjoieWl3ZW5tYXBib3giLCJhIjoiY2t2Y21kOGNhMGJrYTJ1bzJ3a3poMHp4eSJ9.ukeYdyBSNOQIa5bZSQ9raw';
 
-export default function App() {
-    const mapContainer = useRef(null);
+const MapCoffee = () => {
+    const mapContainerRef = useRef(null);
     const map = useRef(null);
     const [lng, setLng] = useState(-73.9840);
     const [lat, setLat] = useState(40.7549);
@@ -14,66 +15,87 @@ export default function App() {
     useEffect(() => {
         if (map.current) return; // initialize map only once
         map.current = new mapboxgl.Map({
-            container: mapContainer.current,
-            style: 'mapbox://styles/yiwenmapbox/clc3vrcdy001615qsvyh495xn',
+            container: mapContainerRef.current,
+            style: "mapbox://styles/yiwenmapbox/clc3vrcdy001615qsvyh495xn",
             center: [lng, lat],
-            zoom: zoom
+            zoom: [zoom],
         });
-    });
 
-    map.on("load", () => {
-        // Add an image to use as a custom marker
-        map.loadImage(
-          "https://yiwenche.github.io/mapbox/src/img/solid-triangle-s.png",
-          (error, image) => {
-            if (error) throw error;
-            map.addImage("solid-triangle", image);
-            // Add a GeoJSON source with multiple points
-            map.addSource("NPBD", {
-              type: "geojson",
-              data: {
-                type: "FeatureCollection",
-                features: geoJson.features,
-              },
-            });
-            // Add a symbol layer
-            map.addLayer({
-              id: "points",
-              type: "symbol",
-              source: "NPBD",
-              layout: {
-                "icon-image": "solid-triangle",
-                // get the title name from the source's "title" property
-                "text-field": ["get", "PARKNAME"],
-                "text-font": ["Roboto Condensed", "Arial Unicode MS Bold"],
-                "text-offset": [0, 0.85],
-                "text-anchor": "top",
-                "text-size": 14,
-                "icon-size": 0.3
-              },
-              paint: {
-                "text-color": "#B86B77"
-              }
-            });
-            // Add a fill layer
-            map.addLayer({
-              id: "fills",
-              type: "fill",
-              source: "NPBD",
-              layout: {
-              },
-              paint: {
-                "fill-color": "#B86B77",
-                "fill-opacity": 0.2,
-              }
-            });
-          }
-        );
-    })
+        map.current.on("load", () => {
+            // Add an image to use as a custom marker
+            map.current.loadImage(
+                "https://yiwenche.github.io/CoffeeMap/src/img/house-icon-s.png",
+                (error, image) => {
+                    if (error) throw error;
+
+                    // Add image as marker
+                    map.current.addImage("house-s", image);
+
+                    // Add source
+                    map.current.addSource("coffeespots", {
+                    type: "geojson",
+                    data: {
+                        type: "FeatureCollection",
+                        features: geoJson.features,
+                    },
+                    });
+
+                    // Add a symbol layer
+                    map.current.addLayer({
+                    id: "coffeespots",
+                    type: "symbol",
+                    source: "coffeespots",
+                    layout: {
+                        "icon-image": "house-s",
+                        "text-field": ["get", "title"],
+                        "text-font": ["Roboto Condensed", "Arial Unicode MS Bold"],
+                        "text-offset": [0, 1.25],
+                        "text-anchor": "top",
+                        "text-size": 12,
+                        "icon-size": 1
+                    },
+                    paint: {
+                        "text-color": "#B86B77"
+                    }
+                    });
+                }
+            );
+        })
+
+        // When a click event occurs on a feature in the coffeespots layer, open a popup at the location of the feature, with description HTML from its properties.
+        
+        
+        map.current.on('click', 'coffeespots', (e) => {
+            // Copy coordinates array.
+            const coordinates = e.features[0].geometry.coordinates.slice();
+            const description = e.features[0].properties.description;
+            // Ensure that if the map is zoomed out such that multiple copies of the feature are visible, the popup appears over the copy being pointed to.
+            while (Math.abs(e.lngLat.lng - coordinates[0]) > 180) {
+                coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360;
+            }
+             
+            new mapboxgl.Popup()
+                .setLngLat(coordinates)
+                .setHTML(description)
+                .addTo(map.current);
+        });
+
+        // Change the cursor to a pointer when the mouse is over the coffeespots layer.
+        map.current.on('mouseenter', 'coffeespots', () => {
+            map.current.getCanvas().style.cursor = 'pointer';
+        });
+            
+        // Change it back to a pointer when it leaves.
+        map.current.on('mouseleave', 'coffeespots', () => {
+            map.current.getCanvas().style.cursor = '';
+        });
+    }, []);
 
     return (
         <div>
-            <div ref={mapContainer} className="map-container" />
+            <div ref={mapContainerRef} className="map-container" />
         </div>
     );
 }
+
+export default MapCoffee;

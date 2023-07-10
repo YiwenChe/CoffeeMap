@@ -1,0 +1,956 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ARywPAKLR_WSYggUENuiq5lktoz5nOzv9pV0vjK4u5Xwy_uCn40NMQnRKAIjejhazBC5kULF_8wIy9Pk9P-vJBjbC1xWfQaK56FpV8hE28-ggfDl4E29Dbt0hTVtvXs419Lx5xeeibn5Or2fBdVmL-l7cYPwFV9GCctmifUTLYGT5ITUX6RbUVtvKniCHvlsKazs-HE0wZhCGTKKWCbpBYKQJdusorJzy5TI7_bEnnScMfWpHxfgc4_-LY1AvpdRDIP-NSX9Jigbd_fFLr3u-v756Q95zaBAr0CTutVB3HC2y6vHc7J29YqOcUiTffwwKnkC75C3_RkbgY4wWaWkWT7svcgFTLBm6vK7qZxqc7mP13DHejkHpnALCcir5r2cbg4LkDTRTw",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "450 Nostrand Ave., Brooklyn, NY 11216, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.6835998,
+               "lng" : -73.95035919999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.68495082989272,
+                  "lng" : -73.94898447010729
+               },
+               "southwest" : {
+                  "lat" : 40.68225117010728,
+                  "lng" : -73.95168412989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "BROOKLYN PERK Coffee",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1943,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104800961067654996196\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ARywPAIwBAmGlZVPVi225GUFFA3b4NaVFmqGtmzJ3556GsEHQfGlzLUJTsPlJNN1RQVksSukTv4ZWcjSq5VZ1e_v9kJoaFa2F7-SEoFmWAO7HZ_yRP4x9LY8TwTF63j07wfEAp1ELgu5iRV4rl1-MosfF1xsZPDf6OV1tlxSFUP_4Qsk2m67",
+               "width" : 1943
+            }
+         ],
+         "place_id" : "ChIJDYd4LnFbwokRP7ptqluUbAQ",
+         "plus_code" : {
+            "compound_code" : "M2MX+CR New York",
+            "global_code" : "87G8M2MX+CR"
+         },
+         "rating" : 4.9,
+         "reference" : "ChIJDYd4LnFbwokRP7ptqluUbAQ",
+         "types" : [ "cafe", "food", "store", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 48
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "1183 Bedford Ave, Brooklyn, NY 11216, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.68297340000001,
+               "lng" : -73.953681
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.68431597989272,
+                  "lng" : -73.95239172010727
+               },
+               "southwest" : {
+                  "lat" : 40.68161632010728,
+                  "lng" : -73.95509137989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Corner Grind Coffee Kitchen",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2268,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116570106915089157535\"\u003eVadim Freger\u003c/a\u003e"
+               ],
+               "photo_reference" : "ARywPAKh72NNRB4nOYBDLDYZSNwQvRXgFlWOPSY74fe3yVdcbsy_zhZ323-JNqS2I3Jv2L5diqNiUGN2d5SFVLfdIwA8SqVx1sDmJfoj-5r8WsIYo0a3X0OUbhV1nAaUHPRVdzpRpmTDIMRZ_C7mTIl7blS5WfdyRPPLGvrjTSI6PDSMjLWd",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ88aPypBbwokR4awGG2n2kmA",
+         "plus_code" : {
+            "compound_code" : "M2MW+5G Brooklyn, New York",
+            "global_code" : "87G8M2MW+5G"
+         },
+         "price_level" : 1,
+         "rating" : 4.1,
+         "reference" : "ChIJ88aPypBbwokR4awGG2n2kmA",
+         "types" : [
+            "cafe",
+            "restaurant",
+            "food",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 212
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "547 Nostrand Ave., Brooklyn, NY 11216, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.6787882,
+               "lng" : -73.94952859999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.68013977989272,
+                  "lng" : -73.94822567010728
+               },
+               "southwest" : {
+                  "lat" : 40.67744012010727,
+                  "lng" : -73.95092532989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Furman's Coffee",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114688533153605759490\"\u003eBen O&#39;Brien Smith\u003c/a\u003e"
+               ],
+               "photo_reference" : "ARywPAI1WrU0Gk2vtNcFX3DRldCmodLSXfJ-_u4JkH8CTJj5tlPWOa787UMDgxKQgJDGN31EeFW1QBZVenUwrUHFwZisGMdkP8_zPizE8qvhA07jURVu5olujsQnQWW4zKgjC63PXEvdJXIc3mg3dsFtlAC2US75p39jzTR1GKIyrv5HvYbq",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJ_TY64ppbwokRnucvIvaQ5lY",
+         "plus_code" : {
+            "compound_code" : "M3H2+G6 Brooklyn, New York",
+            "global_code" : "87G8M3H2+G6"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJ_TY64ppbwokRnucvIvaQ5lY",
+         "types" : [ "cafe", "food", "store", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 140
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "505 Franklin Ave, Brooklyn, NY 11238, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.6814912,
+               "lng" : -73.9555135
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.68283047989271,
+                  "lng" : -73.95426822010727
+               },
+               "southwest" : {
+                  "lat" : 40.68013082010727,
+                  "lng" : -73.95696787989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Café Calaca",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 726,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116942996475591907784\"\u003eSteve Cessario\u003c/a\u003e"
+               ],
+               "photo_reference" : "ARywPAI_lI-QR8JpCwWz5EXmRthYptZgKdjoNaDGMaHshyck8AQpjGn2GFAeZzjgAbXbOaW6hoPOw1yIA2r_nZMzheBOao8NsY8WtD9NfAfwmuM3b8JJPW5jOWtMMb7QNIJ2zFYGOkmRIZkAUPZ04UJarOq5MGFbTSM47QxIKoeIXGfP0fEu",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJ_8iCOwNbwokRgm1nJR3hZ_o",
+         "plus_code" : {
+            "compound_code" : "M2JV+HQ New York",
+            "global_code" : "87G8M2JV+HQ"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJ_8iCOwNbwokRgm1nJR3hZ_o",
+         "types" : [ "cafe", "food", "store", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 81
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "325 Lafayette Ave, Brooklyn, NY 11205, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.6888379,
+               "lng" : -73.96290309999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.69005317989272,
+                  "lng" : -73.96149377010728
+               },
+               "southwest" : {
+                  "lat" : 40.68735352010728,
+                  "lng" : -73.96419342989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Starbucks",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112816694920322617385\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ARywPAJq2pjo6ofitOF2pppWqaDN9-vECpaZrt3h1__jjg60DXpL5x-4V4mRzuZ5TpmBsN042SmURrnh6oAQnTKdRLuDM-gAnrkPyjDFZa5RigBGNSyOlqENqfviOWO40AjvfOwpCAfw76qTIivbWvLAeruEYUfWY0GciVTml-F-xyJD4WMS",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJDzyHrKlbwokROFqQ61skvMk",
+         "plus_code" : {
+            "compound_code" : "M2QP+GR New York",
+            "global_code" : "87G8M2QP+GR"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJDzyHrKlbwokROFqQ61skvMk",
+         "types" : [
+            "cafe",
+            "restaurant",
+            "food",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 229
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "329 Gates Ave, Brooklyn, NY 11216, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.6859602,
+               "lng" : -73.9541413
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.68722247989272,
+                  "lng" : -73.95277367010728
+               },
+               "southwest" : {
+                  "lat" : 40.68452282010728,
+                  "lng" : -73.95547332989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Coffee Uplifts People CUP",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1816,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111005622927791327656\"\u003eSarah Becker\u003c/a\u003e"
+               ],
+               "photo_reference" : "ARywPAJbqSzcA9hdnY9sgFMC5ufdM57zuJ4XI_EJ8yDCH6QVC7Vgjn6qt6thTlA9G4YBu8z8rBExpTEqX4XQapsgiHc1tqXfshqDixKUwCUgrrZrZjIDskMNd6xlT9Uvyq9xOxuaxRnA6lUTFWv6I7r-0gSj7wiQ77W0YBIiAJlSU92TwuVp",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJR4F-ZrNbwokREyXauAztmZw",
+         "plus_code" : {
+            "compound_code" : "M2PW+98 New York",
+            "global_code" : "87G8M2PW+98"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJR4F-ZrNbwokREyXauAztmZw",
+         "types" : [ "cafe", "food", "store", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 111
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "385 Tompkins Ave, Brooklyn, NY 11216, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.68437429999999,
+               "lng" : -73.943983
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.68573382989273,
+                  "lng" : -73.94268987010727
+               },
+               "southwest" : {
+                  "lat" : 40.68303417010728,
+                  "lng" : -73.94538952989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Brooklyn Kettle",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1280,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107287359912855808286\"\u003eTaylor Dodson\u003c/a\u003e"
+               ],
+               "photo_reference" : "ARywPAKVHzHvHGR26ISxerJP8L-7BDXyciWr-Rs_3DH9AVID0eJhssKmKK2s60JKcxRPTjT2pSkYHjIr0C-NQAgbq0TBTCVGlYitKFLAVswht4JAYnbhhW1KiWVr_zEJKDZjWoLmBZ8HoOfvJDTnNBJH5bD5QfVem0T2VnXsqtl48jxseiUX",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJK_gbiY5bwokRdJ8R6hOHxhM",
+         "plus_code" : {
+            "compound_code" : "M3M4+PC New York",
+            "global_code" : "87G8M3M4+PC"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJK_gbiY5bwokRdJ8R6hOHxhM",
+         "types" : [ "cafe", "food", "store", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 88
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "1429 Fulton St, Brooklyn, NY 11216, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.6802207,
+               "lng" : -73.94403779999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.68154582989271,
+                  "lng" : -73.94269027010729
+               },
+               "southwest" : {
+                  "lat" : 40.67884617010727,
+                  "lng" : -73.94538992989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "High Grade Coffee",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJtW1TFihbwokRrUe5ZnuAaI4",
+         "plus_code" : {
+            "compound_code" : "M3J4+49 New York",
+            "global_code" : "87G8M3J4+49"
+         },
+         "rating" : 4,
+         "reference" : "ChIJtW1TFihbwokRrUe5ZnuAaI4",
+         "types" : [ "cafe", "food", "store", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 16
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "1309 Fulton St, Brooklyn, NY 11216, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.6804815,
+               "lng" : -73.94890239999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.68180867989273,
+                  "lng" : -73.94755447010728
+               },
+               "southwest" : {
+                  "lat" : 40.67910902010728,
+                  "lng" : -73.95025412989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Dunkin'",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108702422975774383547\"\u003eDunkin&#39; Donuts\u003c/a\u003e"
+               ],
+               "photo_reference" : "ARywPAILXJsl0R_SCpJyITbpKjghYb9PX--FkVzwWJ286Tof1aCtktN3nwyUmONxyLjat6QjVXC1SCMKhzB3tf_w8Lmkdf1HeqlbRy9ARNGzhjzQV2V_goTt8SmCpMbqjaUbRBMJkCM9fmiddhI4mFFUckAPYkTF99uqmXeMywMhYnrpul0",
+               "width" : 1200
+            }
+         ],
+         "place_id" : "ChIJqzhbo5pbwokRasxusZ8YtV8",
+         "plus_code" : {
+            "compound_code" : "M3J2+6C New York",
+            "global_code" : "87G8M3J2+6C"
+         },
+         "price_level" : 1,
+         "rating" : 3.6,
+         "reference" : "ChIJqzhbo5pbwokRasxusZ8YtV8",
+         "types" : [
+            "cafe",
+            "bakery",
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 248
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "1151 Fulton St, Brooklyn, NY 11216, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.6812907,
+               "lng" : -73.9555596
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.68264862989272,
+                  "lng" : -73.95427532010727
+               },
+               "southwest" : {
+                  "lat" : 40.67994897010728,
+                  "lng" : -73.95697497989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Dunkin'",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101031174959834259797\"\u003eDunkin&#39; Donuts\u003c/a\u003e"
+               ],
+               "photo_reference" : "ARywPAKzrAgPEtw7TN-FebZbmhF_OYZsynnMd5eg-NLeIHz3dOVUAVofGdOqsl04VI1TKG8AX2EF5ety9zQ7bf_DG8LckdngBSHUrMRyLDaJcDxel_WrVj0AkExTv92U38s0GJ3RcG0Q19Aj94AcYg5uy8sd110reewdGO1ryXzo4TQVxZC_",
+               "width" : 1200
+            }
+         ],
+         "place_id" : "ChIJ40GZgz1bwokRO-bPTHuvEmI",
+         "plus_code" : {
+            "compound_code" : "M2JV+GQ New York",
+            "global_code" : "87G8M2JV+GQ"
+         },
+         "price_level" : 1,
+         "rating" : 3.7,
+         "reference" : "ChIJ40GZgz1bwokRO-bPTHuvEmI",
+         "types" : [
+            "cafe",
+            "bakery",
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 89
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "525A Throop Ave, Brooklyn, NY 11221, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.684106,
+               "lng" : -73.9410352
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.68545012989271,
+                  "lng" : -73.93973482010728
+               },
+               "southwest" : {
+                  "lat" : 40.68275047010727,
+                  "lng" : -73.94243447989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Odd Fox Coffee",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117825555657068367988\"\u003e117825555657068367988\u003c/a\u003e"
+               ],
+               "photo_reference" : "ARywPAJ6EfqdVgzWNkPvmA7kQyUTmW7AFKOK7Ty3V7vDe63xo17URv-4cP7YhjTKBGA2oIFFiUykgjjGELCenFP5pYBGnDvI4XKeFbhQZbbWCkqKCTiHhoZt2bO7S2athUVnGEeVk6n1akXhpipFgEHvkc1XVZ2rP2FPhGWk1sZhyPl55lSh",
+               "width" : 3072
+            }
+         ],
+         "place_id" : "ChIJvTn5BoxbwokRw9Z1Dh-53uI",
+         "plus_code" : {
+            "compound_code" : "M3M5+JH Brooklyn, New York",
+            "global_code" : "87G8M3M5+JH"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJvTn5BoxbwokRw9Z1Dh-53uI",
+         "types" : [ "cafe", "food", "store", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 61
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "679 Classon Ave, Brooklyn, NY 11238, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.6770113,
+               "lng" : -73.9591767
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.67836672989272,
+                  "lng" : -73.95785482010727
+               },
+               "southwest" : {
+                  "lat" : 40.67566707010727,
+                  "lng" : -73.96055447989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Coffee Spot",
+         "photos" : [
+            {
+               "height" : 2160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103962851260529094467\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ARywPALdh8LErrJKiw7AySVsX1IRfppODiLr84k4d2oOalm9ll4b-HLjFTUP2wkLXdxOTjreY-3dRTul7IM3gPV3pKtbq5dOmDK_nx2qb4ZsYPRbSWutgbJPaCdS0Q0tB3jvrkf8-dWlMU7_-Zi86O5R0nk170iwBnOyxPvqvbq3irGx-JH6",
+               "width" : 2880
+            }
+         ],
+         "place_id" : "ChIJuQ3K2mFbwokRCO6x7pJ_JVc",
+         "plus_code" : {
+            "compound_code" : "M2GR+Q9 New York",
+            "global_code" : "87G8M2GR+Q9"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJuQ3K2mFbwokRCO6x7pJ_JVc",
+         "types" : [ "cafe", "food", "store", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 88
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Brooklyn, NY 11216, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.6781784,
+               "lng" : -73.94415789999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.67953177989272,
+                  "lng" : -73.94285137010728
+               },
+               "southwest" : {
+                  "lat" : 40.67683212010727,
+                  "lng" : -73.94555102989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "yo's coffee shop",
+         "place_id" : "ChIJeYhHsBNbwokRTrtmB9UOY_w",
+         "plus_code" : {
+            "compound_code" : "M3H4+78 New York",
+            "global_code" : "87G8M3H4+78"
+         },
+         "rating" : 0,
+         "reference" : "ChIJeYhHsBNbwokRTrtmB9UOY_w",
+         "types" : [ "cafe", "food", "store", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "571 Greene Ave, Brooklyn, NY 11216, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.688618,
+               "lng" : -73.94742699999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.69007447989272,
+                  "lng" : -73.94609412010726
+               },
+               "southwest" : {
+                  "lat" : 40.68737482010728,
+                  "lng" : -73.94879377989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Little Roy Coffee Co.",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117710523401695122390\"\u003eLittle Roy Coffee Co.\u003c/a\u003e"
+               ],
+               "photo_reference" : "ARywPAJPE3M3v4J9dMVtq50IVlZZ3fVREu3FU9aKtmvjMuZfcSWQLC2BSOxbIRNpWOCLUb28VYECgAw8YjilZ_uq-u4yjF4AZgGbj45BH42SzuAY-WWFiUB3D7-xD4RF-uVknATaxWI0KPf4a6hryfw9jgAWsiM0fyvU_CC1TIOrHLsowZKa",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJVasRfI1bwokRtEcwVOKSzlg",
+         "plus_code" : {
+            "compound_code" : "M3Q3+C2 Brooklyn, New York",
+            "global_code" : "87G8M3Q3+C2"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJVasRfI1bwokRtEcwVOKSzlg",
+         "types" : [ "cafe", "food", "store", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 125
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "1114 Bedford Ave, Brooklyn, NY 11216, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.686599,
+               "lng" : -73.95471270000002
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.68794432989272,
+                  "lng" : -73.95330382010728
+               },
+               "southwest" : {
+                  "lat" : 40.68524467010728,
+                  "lng" : -73.95600347989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Playground Coffee Shop",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114739191642122811072\"\u003eJoel Valdez\u003c/a\u003e"
+               ],
+               "photo_reference" : "ARywPAIw08p_P6nF8BVc-bQZCVBlaTl9lpRHC_1J1KybadYz8srDUUNsUIRYY7y1ndRUnYhl6779kBbMxBdDzqyWP1BCzra1pC12t_0SH47i22cjKmHNkTNYmtQKJAvgRZ2wCeGNtMbozPpBH6mrB7jxUpv6fkJZd8WNnTTW_mGUDHysHUom",
+               "width" : 1200
+            }
+         ],
+         "place_id" : "ChIJ4QZHoZZbwokRzJnc60HuJiw",
+         "plus_code" : {
+            "compound_code" : "M2PW+J3 New York",
+            "global_code" : "87G8M2PW+J3"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJ4QZHoZZbwokRzJnc60HuJiw",
+         "types" : [ "cafe", "food", "store", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 414
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "261 Nostrand Ave., Brooklyn, NY 11216, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.6897767,
+               "lng" : -73.9512151
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.69112012989273,
+                  "lng" : -73.94997937010729
+               },
+               "southwest" : {
+                  "lat" : 40.68842047010728,
+                  "lng" : -73.95267902989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Nostrand Coffee Roaster",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106964516641009082872\"\u003emookkkoo\u003c/a\u003e"
+               ],
+               "photo_reference" : "ARywPALXewOFQFJdc4CBO4XWdYWOAbqRqWiG_uQ5gPBYmVwRPUIIDE1u6n25RRzb8jjbp_l_unrSRJol6EKjLDOW74j7aABhF_Se47n7MuyZIP5mPNkP85TZgFm4M3d0uE-0TmMQAoA36VKHb_Pvf_ZBOG6vTbqC9gGTZhlgTpWVOaQkCWg0",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJLwlwGZNbwokRx86bnl6HSYc",
+         "plus_code" : {
+            "compound_code" : "M2QX+WG New York",
+            "global_code" : "87G8M2QX+WG"
+         },
+         "price_level" : 2,
+         "rating" : 4.6,
+         "reference" : "ChIJLwlwGZNbwokRx86bnl6HSYc",
+         "types" : [ "cafe", "food", "store", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 279
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "260 Halsey St, Brooklyn, NY 11216, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.68244989999999,
+               "lng" : -73.9433906
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.68383717989272,
+                  "lng" : -73.94204782010728
+               },
+               "southwest" : {
+                  "lat" : 40.68113752010728,
+                  "lng" : -73.94474747989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Corto",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102247478406157893101\"\u003eStevenKReilly\u003c/a\u003e"
+               ],
+               "photo_reference" : "ARywPAJy_1grjNUnIBP6z1NwTGxEJNCdIb8ery11O9Llm6Z5Xk3euqfwEADm4zWrdGLrc5-IVD1BXvn7mvFMVhefTiUFCtta2qJBB7jO3M7jl_jTiQbZ-cBqJ4WqiWZd3to48JsdOwG0bM84y6AW2QfqxRpOnR0nXj2ZfK6oqMLIhn8rLpPf",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJsV2mPBxbwokRN4z8lBXBejU",
+         "plus_code" : {
+            "compound_code" : "M3J4+XJ New York",
+            "global_code" : "87G8M3J4+XJ"
+         },
+         "price_level" : 2,
+         "rating" : 4.5,
+         "reference" : "ChIJsV2mPBxbwokRN4z8lBXBejU",
+         "types" : [
+            "cafe",
+            "restaurant",
+            "food",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 205
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "320 Franklin Ave, Brooklyn, NY 11238, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.6881695,
+               "lng" : -73.95721209999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.68951982989272,
+                  "lng" : -73.95585802010727
+               },
+               "southwest" : {
+                  "lat" : 40.68682017010727,
+                  "lng" : -73.95855767989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Espresso Bar",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104970011084573805955\"\u003eJade Zeller\u003c/a\u003e"
+               ],
+               "photo_reference" : "ARywPAKwuUMLAeuLM2MDEqzr0md3nvNJtXzdH2S4lOLftgZbx9pq7QqLqo5nqJcpsGX_5YV0zo9hdm0aGmgXiIiqjy4jtfiU6048L8iXDKbrwm12Cc6x2F2FoCZwtG4MlMsU1SKi72zoyZ4IdfHi4F1QU9dtpRb7yyfkg0_3iR_ItGx5Wjmw",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJqwcPxpVbwokR7XP5KrG9p8o",
+         "plus_code" : {
+            "compound_code" : "M2QV+73 Brooklyn, New York",
+            "global_code" : "87G8M2QV+73"
+         },
+         "price_level" : 1,
+         "rating" : 4.5,
+         "reference" : "ChIJqwcPxpVbwokR7XP5KrG9p8o",
+         "types" : [ "cafe", "food", "store", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 59
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "1077 Bergen St, Brooklyn, NY 11216, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.67623810000001,
+               "lng" : -73.95040709999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.67755422989273,
+                  "lng" : -73.94905767010727
+               },
+               "southwest" : {
+                  "lat" : 40.67485457010729,
+                  "lng" : -73.95175732989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Cafe Cotton Bean",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100173201058006470743\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ARywPAJKeGUvyEDao49hBeIdmAeQq--fLSjGwPQwDh4QCihzY3Kt7RWhZPhfgFYHpIeqb6UCflLVtsy6v-34LbV2bpEBdaJTKyyR3_kuLYo63PbYR0uw-YzLRMcL5jn5303FDiflHuhatMbvB4igOEbGeGU0pmJvbi6AYBaTQ7HDTANzrL31",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJNTbdgZxbwokRVBxUtB51a6E",
+         "plus_code" : {
+            "compound_code" : "M2GX+GR Brooklyn, New York",
+            "global_code" : "87G8M2GX+GR"
+         },
+         "price_level" : 1,
+         "rating" : 4.6,
+         "reference" : "ChIJNTbdgZxbwokRVBxUtB51a6E",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 167
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "1365 Fulton St, Brooklyn, NY 11216, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.6803626,
+               "lng" : -73.94669189999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.68167987989272,
+                  "lng" : -73.94533942010727
+               },
+               "southwest" : {
+                  "lat" : 40.67898022010728,
+                  "lng" : -73.94803907989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "LE PARIS DAKAR",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111410706898251896175\"\u003eAatiq Antique\u003c/a\u003e"
+               ],
+               "photo_reference" : "ARywPAI90T0RQUYDF200GEquyxh9nwVY6AUjViUQDdaPkoE8p_6O8EOpskNkBHNv2Jh4PqeSZVZPvbteXTBEawUXxOov-mPyQWzQ2X3QmDgHECTQUByAzA6BVNtTc46LCzgGU7MaUtAarP9QBucj-FQcxTmHoft8pFayA4waRCjqWKhNFWrq",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJB3xnWYVbwokR3tD3nlw_GB4",
+         "plus_code" : {
+            "compound_code" : "M3J3+58 New York",
+            "global_code" : "87G8M3J3+58"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJB3xnWYVbwokR3tD3nlw_GB4",
+         "types" : [
+            "cafe",
+            "bakery",
+            "restaurant",
+            "food",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 172
+      }
+   ],
+   "status" : "OK"
+}

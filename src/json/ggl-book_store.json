@@ -1,0 +1,853 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ARywPAK3YlQ7Fk21IwPuZpX3Y92hGmesHQiWFcvx8V21V8huI7TvKDJrNoWAnaoOvsUMi4B6kgNZwMY0qRJiNAccwTlLgRAPDHoxhR4IgEP8bRL5B2cU2ApE2xYduhpg8KRnCyerGm6mlYies9mhYWlJNzfVbzjM8eT_e5-_EHb9CTwhdTh3WZ7Ogj_OpCvHzvyqXFyhQmsTWBup2JbxqFmukZ9wMjo5YqW91JJtO6J5uegTOBkNO5zWl8X7qWKkGsquwQ5et4uMe8_1jnMqpbSIX-VQ9NKeO_wQ2M3Ao47lyTWtz5xo3hBSsowh_nD66BaoUAYreyByHdfPkNGDmvc-evZ5iDp_MIcixjqKRl07wJoGVfiYDCy3dw7jU6gypIWJqQg0db7reGm08jOOR6LsSiHQEw",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "343A Tompkins Ave, Brooklyn, NY 11216, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.686028,
+               "lng" : -73.9441743
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.68736337989272,
+                  "lng" : -73.94295517010727
+               },
+               "southwest" : {
+                  "lat" : 40.68466372010728,
+                  "lng" : -73.94565482989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "dear friend books",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105738289854011922480\"\u003eChristiane Büssgen\u003c/a\u003e"
+               ],
+               "photo_reference" : "ARywPAI9x9d_o2IytX5w8Y9F3d2zTsrAKODTCkbhdbhVmK_LHiF5hVlwLtsNs-qC_PxediUjb_BQR_yp5CZSRb-gpPZjmDk4R20o3d0axwjngkaE6Yo3y9vy7vKf_U0z-IqNZXAXMu1Xm0g5TXMm0bstRyPqtpgtHCtezPgSouKSU23bdS72",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJi2fRyMxbwokR6G8Op8EfbpY",
+         "plus_code" : {
+            "compound_code" : "M3P4+C8 New York",
+            "global_code" : "87G8M3P4+C8"
+         },
+         "rating" : 4.9,
+         "reference" : "ChIJi2fRyMxbwokR6G8Op8EfbpY",
+         "types" : [ "book_store", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 31
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "658 Franklin Ave, Brooklyn, NY 11238, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.6758,
+               "lng" : -73.9562715
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.67715412989272,
+                  "lng" : -73.95488482010728
+               },
+               "southwest" : {
+                  "lat" : 40.67445447010728,
+                  "lng" : -73.95758447989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Hullabaloo Books",
+         "place_id" : "ChIJty3o9bxbwokR0Ye2AFZq_So",
+         "plus_code" : {
+            "compound_code" : "M2GV+8F New York",
+            "global_code" : "87G8M2GV+8F"
+         },
+         "rating" : 0,
+         "reference" : "ChIJty3o9bxbwokR0Ye2AFZq_So",
+         "types" : [ "book_store", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "368 Tompkins Ave, Brooklyn, NY 11216, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.6848835,
+               "lng" : -73.9443921
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.68623137989272,
+                  "lng" : -73.94303582010727
+               },
+               "southwest" : {
+                  "lat" : 40.68353172010728,
+                  "lng" : -73.94573547989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "The Word Is Change",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108919363125687089850\"\u003eArthur Singleton\u003c/a\u003e"
+               ],
+               "photo_reference" : "ARywPAKoDsbO4xJ7yQsqDoFWmkqlhJMUbpvgaffOZEcFz9BUMAildtD7fO00NjoNRl9WtHcQ4KpXJS0ma8QWmSS28V-gMnavoMWXtVwzq3FFVcx3ZXSH0EkPuBEXHVF-xGXbEEg95xO4Tnbm1pviD_XcKIvcJ4y1j7pWr3D7qGle6oYcPyjo",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJt-jNd4ZbwokREiFzH3LFrec",
+         "plus_code" : {
+            "compound_code" : "M3M4+W5 New York",
+            "global_code" : "87G8M3M4+W5"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJt-jNd4ZbwokREiFzH3LFrec",
+         "types" : [ "book_store", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 31
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "615 Vanderbilt Ave, Brooklyn, NY 11238, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.6788315,
+               "lng" : -73.9682725
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.67996712989272,
+                  "lng" : -73.96710332010728
+               },
+               "southwest" : {
+                  "lat" : 40.67726747010728,
+                  "lng" : -73.96980297989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Unnameable Books",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109337099451886467497\"\u003enelli latypova\u003c/a\u003e"
+               ],
+               "photo_reference" : "ARywPAKHtrp7agz8EDjMprSIENC_-BN_ECPE7Qc9RZSvb05ptCPeRaoQnkmxneUOHbt67L3K_nyNNOdEErq2n_qE8eumnhuLoY4dpocoLEbLUQX7YjQ9ozZuUj7OaA6DpPdTYPCEhNn5JWjEI0Ogb_gePX2ylY-vtIVxDq_efZr_6ypJUWY",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJxWzqeqZbwokRRfuaT-IC6RQ",
+         "plus_code" : {
+            "compound_code" : "M2HJ+GM New York",
+            "global_code" : "87G8M2HJ+GM"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJxWzqeqZbwokRRfuaT-IC6RQ",
+         "types" : [ "book_store", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 305
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "420 St Marks Ave, Brooklyn, NY 11238, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.6768489,
+               "lng" : -73.9611207
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.67826437989272,
+                  "lng" : -73.95974697010726
+               },
+               "southwest" : {
+                  "lat" : 40.67556472010728,
+                  "lng" : -73.96244662989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "little free library",
+         "place_id" : "ChIJCy9RoNJbwokRuz_7wE_LEjU",
+         "plus_code" : {
+            "compound_code" : "M2GQ+PH New York",
+            "global_code" : "87G8M2GQ+PH"
+         },
+         "rating" : 5,
+         "reference" : "ChIJCy9RoNJbwokRuz_7wE_LEjU",
+         "types" : [ "book_store", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 3
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "242 Prospect Park West, Brooklyn, NY 11215, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.6593597,
+               "lng" : -73.9814287
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.66068727989272,
+                  "lng" : -73.98003347010729
+               },
+               "southwest" : {
+                  "lat" : 40.65798762010728,
+                  "lng" : -73.98273312989274
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Terrace Books",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101673908635283247526\"\u003eRavi Sachidanandam\u003c/a\u003e"
+               ],
+               "photo_reference" : "ARywPAJv03atO81X2F3rJbnhOxBX3slJQIw46jmO6-sop5n2wXwztH44zITKyHIG6UJ6VdrxCF7QhoPY9IXuqcZ4wjCeATfsAcpSwxlVi63T4H921M4z9mwc3nT73iBZ-SrNdOphAssQ_SU49de_llIV-jRYT6o8AcLCCwpUct-5Tdf5-I-B",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJk1Y2Rx5bwokRDzjS9i4hdmk",
+         "plus_code" : {
+            "compound_code" : "M259+QC New York",
+            "global_code" : "87G8M259+QC"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJk1Y2Rx5bwokRDzjS9i4hdmk",
+         "types" : [
+            "book_store",
+            "point_of_interest",
+            "home_goods_store",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 80
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "143 7th Ave, Brooklyn, NY 11215, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.6727586,
+               "lng" : -73.9765158
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.67412107989273,
+                  "lng" : -73.97519262010728
+               },
+               "southwest" : {
+                  "lat" : 40.67142142010729,
+                  "lng" : -73.97789227989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Community Bookstore",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116924264736744337002\"\u003eJohn Michael Kilbane\u003c/a\u003e"
+               ],
+               "photo_reference" : "ARywPAJbWCTJKGanCtI6dGbWhNeoPvFuVXw_Jp1h_Lg6Q4NoiCdwJsvwGc37PuffATVDgkWVCck_sYwWffH0k3yTJ4FDczZ7Twd5v0r3ACTDopuOh_0if0x5lNfGseqxL4frEF8a9JVCPRwFmS_b3TUZjWyyU2-yYPeTsJDfajmORt2j-t2d",
+               "width" : 4928
+            }
+         ],
+         "place_id" : "ChIJ-W1PKAdbwokRhDG1VgLSckw",
+         "plus_code" : {
+            "compound_code" : "M2FF+3C Brooklyn, New York",
+            "global_code" : "87G8M2FF+3C"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJ-W1PKAdbwokRhDG1VgLSckw",
+         "types" : [ "book_store", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 248
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "464 Madison St, Brooklyn, NY 11221, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.6857993,
+               "lng" : -73.93949529999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.68725097989272,
+                  "lng" : -73.93816597010726
+               },
+               "southwest" : {
+                  "lat" : 40.68455132010727,
+                  "lng" : -73.94086562989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Children's Books for the soul",
+         "place_id" : "ChIJQYU_CuhbwokRmCLNTjDHaVM",
+         "plus_code" : {
+            "compound_code" : "M3P6+86 New York",
+            "global_code" : "87G8M3P6+86"
+         },
+         "rating" : 0,
+         "reference" : "ChIJQYU_CuhbwokRmCLNTjDHaVM",
+         "types" : [ "book_store", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "632 Flatbush Ave, Brooklyn, NY 11225, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.6577641,
+               "lng" : -73.9606299
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.65914462989272,
+                  "lng" : -73.95914687010728
+               },
+               "southwest" : {
+                  "lat" : 40.65644497010727,
+                  "lng" : -73.96184652989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Greenlight Bookstore (Flatbush Avenue)",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1365,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106667195630560236377\"\u003ephilippe gabulon\u003c/a\u003e"
+               ],
+               "photo_reference" : "ARywPALNR0gok_f87O4puXGfHMS_54Zf6DxK-JLMYbUq1ikWlEh1nYDYZIvBKtKwa-NLJtKVlZHw-fe1K81h514EaRHH_AF-otLGVK9-AbBorV0F9V4sRNKZ2yNOfCK_mtXEU0BmutE9ftCzQEddohFxjh_JFFVFCUCKPAVzC72BsMyjcPXd",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJ46fephRbwokRywtZm6h3rhA",
+         "plus_code" : {
+            "compound_code" : "M25Q+4P New York",
+            "global_code" : "87G8M25Q+4P"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJ46fephRbwokRywtZm6h3rhA",
+         "types" : [ "book_store", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 360
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "2716 Church Ave, Brooklyn, NY 11226, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.650593,
+               "lng" : -73.95192279999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.65199107989272,
+                  "lng" : -73.95057702010727
+               },
+               "southwest" : {
+                  "lat" : 40.64929142010728,
+                  "lng" : -73.95327667989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Universal Bookstore",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJU8zY9gNbwokR4hW6_bArTUM",
+         "plus_code" : {
+            "compound_code" : "M22X+66 New York",
+            "global_code" : "87G8M22X+66"
+         },
+         "rating" : 0,
+         "reference" : "ChIJU8zY9gNbwokR4hW6_bArTUM",
+         "types" : [ "book_store", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "536 Metropolitan Ave, Brooklyn, NY 11211, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7139424,
+               "lng" : -73.9509417
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.71535842989272,
+                  "lng" : -73.94960062010728
+               },
+               "southwest" : {
+                  "lat" : 40.71265877010728,
+                  "lng" : -73.95230027989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Quimby's Bookstore NYC",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110644886604840545332\"\u003eQuimby&#39;s Bookstore NYC\u003c/a\u003e"
+               ],
+               "photo_reference" : "ARywPAItYoQACSnJuTavOfn_PiW1QRrBdTPoSHpzvRll-yboAHZYp-r0N20UQ5UkmjQ2pS9D-cc3YqwAhuvIAehVHIUxbbdphBXfy81jf18sGNd_UTWIirTjjny9dj2AxLllMdv1MufbmD-KqTL_WLSpJQr4X-7zesw1H6TxDarx1bVL-2Xu",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJh92VBllZwokR02frzAmb3MA",
+         "plus_code" : {
+            "compound_code" : "P27X+HJ New York",
+            "global_code" : "87G8P27X+HJ"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJh92VBllZwokR02frzAmb3MA",
+         "types" : [ "book_store", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 126
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "129 6th Ave, Brooklyn, NY 11217, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.6782084,
+               "lng" : -73.97581130000002
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.67959957989272,
+                  "lng" : -73.97456612010728
+               },
+               "southwest" : {
+                  "lat" : 40.67689992010727,
+                  "lng" : -73.97726577989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Troubled Sleep",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113718755672691410192\"\u003eLauren Hoffman\u003c/a\u003e"
+               ],
+               "photo_reference" : "ARywPAKVmv8Uh5Xfjh4QgUYs9Pk0QZzxPNNx5SEH9jUKGMHSk_XUe0nVbKyTrOHToBsjZ1AzUj0VCa3dvkBLTgnXaNXaMjFpIPvVVFnSH27pJFuwDwBXAsQ_eDlCBogEuLSUY6jnPY0XRBM7L44bNkI2lX9S6_3SStNtEhAM2RIAeO5MoIL8",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJMYVbtJJbwokReqmCXEllVlw",
+         "plus_code" : {
+            "compound_code" : "M2HF+7M New York",
+            "global_code" : "87G8M2HF+7M"
+         },
+         "rating" : 4.9,
+         "reference" : "ChIJMYVbtJJbwokReqmCXEllVlw",
+         "types" : [ "book_store", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 30
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "686 Fulton St, Brooklyn, NY 11217, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.6862636,
+               "lng" : -73.9746387
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.68763422989272,
+                  "lng" : -73.97327132010727
+               },
+               "southwest" : {
+                  "lat" : 40.68493457010728,
+                  "lng" : -73.97597097989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Greenlight Bookstore (Fulton Street)",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3036,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108688046477368311620\"\u003eStefan De Clercq\u003c/a\u003e"
+               ],
+               "photo_reference" : "ARywPAIEPFt-z9k0E8YI7djjT_Xg0o1TpMrhBXP9y1XOfOPvgdNJ5-2bEj5eqvyWpmjsS0NixwJyvtGbrC9jNjxPOC1q4SSSb69OdGDNXk3Q8RTbj5zpAh-C6_fS7zXZ0ew0paaGNsJTkYDuCEmPKJz_Jk5M10VGi6KhUJ1tZ95t4YFwBWFv",
+               "width" : 4048
+            }
+         ],
+         "place_id" : "ChIJjTxYtrFbwokRLcr7cM149Uo",
+         "plus_code" : {
+            "compound_code" : "M2PG+F4 New York",
+            "global_code" : "87G8M2PG+F4"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJjTxYtrFbwokRLcr7cM149Uo",
+         "types" : [ "book_store", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 798
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "445 Gold St, Brooklyn, NY 11201, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.69099120000001,
+               "lng" : -73.98291650000002
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.69258462989272,
+                  "lng" : -73.98126847010728
+               },
+               "southwest" : {
+                  "lat" : 40.68988497010727,
+                  "lng" : -73.98396812989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "McNally Jackson Books",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105501086522337402677\"\u003eI. Longval\u003c/a\u003e"
+               ],
+               "photo_reference" : "ARywPAIf_ndQcUPmqBkUXRKh0jeEPlUWFXRqAmDSgHiJ78ny9N6tDjTkNkbjdajERa2lQ9LPlG52TEVoHpx-soMonmhkbqJ2fQyM1MnkkoWh_t1qH8xxHDxWgeqfG1v9c_cGXowny7PzubAIlHc4cXWDuMVPZkr8bcrpxfbSEP0CUPk6lBx8",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJDSUF2NVbwokRgTKVYvaYPdo",
+         "plus_code" : {
+            "compound_code" : "M2R8+9R New York",
+            "global_code" : "87G8M2R8+9R"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJDSUF2NVbwokRgTKVYvaYPdo",
+         "types" : [ "book_store", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 116
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "882 Lorimer St, Brooklyn, NY 11222, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7229625,
+               "lng" : -73.95121210000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.72429907989272,
+                  "lng" : -73.94990352010728
+               },
+               "southwest" : {
+                  "lat" : 40.72159942010728,
+                  "lng" : -73.95260317989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "High Valley Books Open by Appointment",
+         "photos" : [
+            {
+               "height" : 1349,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116365843808688390145\"\u003eArthurious\u003c/a\u003e"
+               ],
+               "photo_reference" : "ARywPAKAba0E4NIeO8Mx_VgFG9r_sX1lxYybOtIne9s_64HSzzt5qHIJFBjHWPjK1HBFAsjU82-uYiG744Kps1CSyloyxyAryRry_YIUpEu5eh_K8SgHAQH4-Ybd9PYb6sum0JYdpyg0DbKtF8Z55aBLyBNrfSz7PqTsB76kSnyz9Mf3lG4M",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJOcEiXt5bwokRUbC6PppLDv0",
+         "plus_code" : {
+            "compound_code" : "P2FX+5G New York",
+            "global_code" : "87G8P2FX+5G"
+         },
+         "rating" : 4,
+         "reference" : "ChIJOcEiXt5bwokRUbC6PppLDv0",
+         "types" : [ "book_store", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 4
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "106 Court St, Brooklyn, NY 11201, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.6907712,
+               "lng" : -73.99208449999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.69211632989272,
+                  "lng" : -73.99065817010727
+               },
+               "southwest" : {
+                  "lat" : 40.68941667010728,
+                  "lng" : -73.99335782989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Barnes & Noble",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110417850173991791696\"\u003eLior Kogan\u003c/a\u003e"
+               ],
+               "photo_reference" : "ARywPAKjOfx60wOMDHFI8UtYiqWEJOhd4QzFsBuW2gHdXxDgZRK6oVqQx7R8ICZ2zx0ExFs_L3Lm6xwey3t7bi0kndsAmwuDK7X5Isn-bKKs4zXKTWsJ4xhr3_mMudEuJYrwLxZKykKR-pTIv6VhyEr98eFhDoS_zAZV7qCHr5pZraveMHMS",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJOYzYHk9awokRA0rHXwXKqts",
+         "plus_code" : {
+            "compound_code" : "M2R5+84 New York",
+            "global_code" : "87G8M2R5+84"
+         },
+         "price_level" : 2,
+         "rating" : 4.5,
+         "reference" : "ChIJOYzYHk9awokRA0rHXwXKqts",
+         "types" : [
+            "book_store",
+            "cafe",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 3156
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "867 Broadway, Brooklyn, NY 11206, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.6985526,
+               "lng" : -73.9377949
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.69985062989272,
+                  "lng" : -73.93649632010728
+               },
+               "southwest" : {
+                  "lat" : 40.69715097010728,
+                  "lng" : -73.93919597989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Better Read Than Dead",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110577621575568734178\"\u003eDonald Lee\u003c/a\u003e"
+               ],
+               "photo_reference" : "ARywPAJrP8Fe7t4ObqJqUy81KRJyNcs74OFzDpKUlxiS0tyRUnRS3-82KChk5U7vR2T1OFLigT9rJ0bll67EntaoVJ-RqupIQjatoMJb565NgxX2eAQGRbHkDPKRcO05cs6_vlAhUvLOQJB5Ji4PA04HnRxADXzC-SzYy2a4Je49TQb4Ia7I",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJheAKkvdbwokRczf0c1aRoZQ",
+         "plus_code" : {
+            "compound_code" : "M3X6+CV New York",
+            "global_code" : "87G8M3X6+CV"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJheAKkvdbwokRczf0c1aRoZQ",
+         "types" : [ "book_store", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 47
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "226 Wilson Ave, Brooklyn, NY 11237, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.698056,
+               "lng" : -73.9214006
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.69947832989272,
+                  "lng" : -73.92001387010728
+               },
+               "southwest" : {
+                  "lat" : 40.69677867010728,
+                  "lng" : -73.92271352989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Bookafe Brooklyn",
+         "place_id" : "ChIJL1nEqsBdwokRWROeXR9RLIU",
+         "plus_code" : {
+            "compound_code" : "M3XH+6C New York",
+            "global_code" : "87G8M3XH+6C"
+         },
+         "rating" : 0,
+         "reference" : "ChIJL1nEqsBdwokRWROeXR9RLIU",
+         "types" : [ "book_store", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "246 Cornelia St, Brooklyn, NY 11221, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.6933281,
+               "lng" : -73.912077
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.69474382989273,
+                  "lng" : -73.91084407010727
+               },
+               "southwest" : {
+                  "lat" : 40.69204417010728,
+                  "lng" : -73.91354372989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "GCG Book World",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJ4SBAd3ddwokR_MgwhdKlvi0",
+         "plus_code" : {
+            "compound_code" : "M3VQ+85 New York",
+            "global_code" : "87G8M3VQ+85"
+         },
+         "rating" : 0,
+         "reference" : "ChIJ4SBAd3ddwokR_MgwhdKlvi0",
+         "types" : [ "book_store", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "409 Lewis Ave, Brooklyn, NY 11233, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.6814681,
+               "lng" : -73.9345814
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.68280612989273,
+                  "lng" : -73.93331367010728
+               },
+               "southwest" : {
+                  "lat" : 40.68010647010728,
+                  "lng" : -73.93601332989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+         "name" : "Brownstone Books",
+         "place_id" : "ChIJT99y5hVdwokRmAb73CP_rls",
+         "plus_code" : {
+            "compound_code" : "M3J8+H5 New York",
+            "global_code" : "87G8M3J8+H5"
+         },
+         "rating" : 0,
+         "reference" : "ChIJT99y5hVdwokRmAb73CP_rls",
+         "types" : [ "book_store", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 0
+      }
+   ],
+   "status" : "OK"
+}

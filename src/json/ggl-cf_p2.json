@@ -1,0 +1,939 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ARywPALqC_kghpQjOk90vheSWBhHfUwlLnpZ6XQIwGUrdSb8KHjF4Cn_bcifTPfLE23iw7NHQqDujO9j35cNdRYAxfIFHqmRKbiRKXJKjUdVT_gn5e2D9jpDAe67KDvy1TiGhepBEN46L99DxHzXsiu71SGjwtRANQ421PyFrxtj8AblaigbKFlErLVsYKGJBB4ZZ6ujTEt-CWLAKV8lXUrC8kFBMh11VYA_G-OcG0bbzxvvoh7m5ziilHoxiQoumj5x2eqWJa6izgqcGPLc9e9V8cszvNNsNm1Osxx_5AYTOgIv_oUEK4Q7T0UU5Nt9nGDAsZ9hpQKqvO5YR1M44TZ2yJOhIx456ZcnzBcx30N4Z8kAdBGX0zmXTiaIJEg4x61Snb_UiqJiTkEeFmy8jRKZt2fghZ-Qx5Hyb5_EfTYEBCJ-VVQzeC9PBZrUQV_V31_NS0TW2kkeMztmp0w2jTXHU62_jPDjzz4pi7X_BJDlDYExykDnFOJtTVLiNRUahaOmzMiZ_StIxOYqi2wvmmcdlGRuW659V7A-hpF36Zc8bN0g7X1ot-E3knzdSdNzn3ZK--1n-gAZKs8G6VyokXR2OpBwnPCAtiEtoX4RT5GtV-mb2gxm67N7-uZDl39ioIkzqeQWwhOT0-O7rFzIig1RHRBOVh4lpNoNRw",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "99 Wall St, New York, NY 10005, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7048062,
+               "lng" : -74.00728119999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.70608887989273,
+                  "lng" : -74.00586052010728
+               },
+               "southwest" : {
+                  "lat" : 40.70338922010728,
+                  "lng" : -74.00856017989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "OpticCoffee.com",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJkdz8DWhbwokR9YYfg8oXMFY",
+         "plus_code" : {
+            "compound_code" : "PX3V+W3 New York",
+            "global_code" : "87G7PX3V+W3"
+         },
+         "rating" : 0,
+         "reference" : "ChIJkdz8DWhbwokR9YYfg8oXMFY",
+         "types" : [ "cafe", "point_of_interest", "store", "food", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "162 5th Ave, Brooklyn, NY 11217, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.677882,
+               "lng" : -73.9796363
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.67922232989272,
+                  "lng" : -73.97826207010728
+               },
+               "southwest" : {
+                  "lat" : 40.67652267010728,
+                  "lng" : -73.98096172989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Everyman Espresso",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108190568959858354707\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ARywPAIxgC3pk5fQzQbskvL9_KbYxXY38vwlixKcgtyE8wnn1H9eoC1Wl1uLbnEC-rN1EKYO1ZxvDBfwCcW6qTp0aLdbDnlvbx9hoNKtpRQjaWDqqqohSaPj1leah3maGFxmCKDiMewOOJT7LcQV9Vjrn-R8fbReROWc2Dn9VqZ0ZgzLCY8J",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJ51iZVKpbwokR3jn8vmxMXaM",
+         "plus_code" : {
+            "compound_code" : "M2HC+54 Brooklyn, New York",
+            "global_code" : "87G8M2HC+54"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJ51iZVKpbwokR3jn8vmxMXaM",
+         "types" : [ "cafe", "point_of_interest", "store", "food", "establishment" ],
+         "user_ratings_total" : 151
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "75 Varick St, New York, NY 10013, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.72346210000001,
+               "lng" : -74.0068304
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.72469642989272,
+                  "lng" : -74.00516977010729
+               },
+               "southwest" : {
+                  "lat" : 40.72199677010728,
+                  "lng" : -74.00786942989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "drip coffee makers",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100700390433393674077\"\u003eido siman-tov\u003c/a\u003e"
+               ],
+               "photo_reference" : "ARywPAJwCVOkN_fokRWY9dF5AcDHSLqoBbrSX7XCYGY8zVMbC1h841yS8Q1VkUH5LVqfH9pbwNc-KHJrYUudj-oVZQ5kaNkTpI8kUR6bcUhxIQQJeAPtpehiWThoE_JzQGc5rv014CC172Yg7N6nFR6_y_lY_8XZD8RLiqPhh3HGTgT1rJgY",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJLaKILPBZwokRmqMEPKt0R68",
+         "plus_code" : {
+            "compound_code" : "PXFV+97 New York",
+            "global_code" : "87G7PXFV+97"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJLaKILPBZwokRmqMEPKt0R68",
+         "types" : [ "cafe", "point_of_interest", "store", "food", "establishment" ],
+         "user_ratings_total" : 12
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "2286 Adam Clayton Powell Jr Blvd, New York, NY 10030, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8149635,
+               "lng" : -73.9442779
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.81628117989272,
+                  "lng" : -73.94285402010728
+               },
+               "southwest" : {
+                  "lat" : 40.81358152010728,
+                  "lng" : -73.94555367989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "PROOF Coffee Roasters",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 635,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102453728682010325791\"\u003eValentina Celeste\u003c/a\u003e"
+               ],
+               "photo_reference" : "ARywPALsSTSiGuAa7BHf246sTjeKFoPIHcc9mkUEqxUpCoqWEDSr7t2EuxOTIhlXHNm9JEvdxYbia4umHjOETDtm9r76-sDoc3bSF_9ddu90Hb5bSAausPba2SVI9LeEVlMiQziGl38BdXWtSs4HDbIY1JOBdLrMwCxHcMP6EIAoQlccnlqB",
+               "width" : 640
+            }
+         ],
+         "place_id" : "ChIJnX7ycnH2wokR8i9tiWLhErs",
+         "plus_code" : {
+            "compound_code" : "R374+X7 New York",
+            "global_code" : "87G8R374+X7"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJnX7ycnH2wokR8i9tiWLhErs",
+         "types" : [ "cafe", "point_of_interest", "store", "food", "establishment" ],
+         "user_ratings_total" : 221
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "350 Broadway, New York, NY 10013, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7169163,
+               "lng" : -74.00381059999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.71828342989271,
+                  "lng" : -74.00249637010728
+               },
+               "southwest" : {
+                  "lat" : 40.71558377010727,
+                  "lng" : -74.00519602989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Think Coffee",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117070553053083957801\"\u003eFrank Eng\u003c/a\u003e"
+               ],
+               "photo_reference" : "ARywPALywY9WN5OjKPYjcjiC10AX95QZkGR4eJvQixgWPFqjQPBgdh4N1YtBScSNb3u72U5WkGUBjZ6Hd9CSgvKkRDimSWf8V1BAHk3ekYFPzLNtPuT7nzW25aBploxmR6oO9RdB2hTIXmB2hgZigNTE-6yvI1Kz5kN1y44cEfgkHn1mY_BR",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJaR0w9iBawokRGwkdqcC9EPk",
+         "plus_code" : {
+            "compound_code" : "PX8W+QG New York",
+            "global_code" : "87G7PX8W+QG"
+         },
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "ChIJaR0w9iBawokRGwkdqcC9EPk",
+         "types" : [ "cafe", "point_of_interest", "store", "food", "establishment" ],
+         "user_ratings_total" : 432
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "75 9th Ave, New York, NY 10011, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7424155,
+               "lng" : -74.00623109999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.74413772989271,
+                  "lng" : -74.00545197010727
+               },
+               "southwest" : {
+                  "lat" : 40.74143807010727,
+                  "lng" : -74.00815162989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Pulley Coffee Bar",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117808460219123378764\"\u003eRuwan J\u003c/a\u003e"
+               ],
+               "photo_reference" : "ARywPALmyOpULfTxXlipYyELcaaJ2X4K286d62Ov4He_cHEiVntljb021Qtl9rKL4_aW7vNVE1gRqpJs0rRJiuh_X9_EjI2QZbrX7V9hqYIxtgc-mTUjQspirYv7oJ37GopLTNlk54DvbzQSOCrG4DEroBIw4tQIeURO36K2av_qz9N2yClB",
+               "width" : 2268
+            }
+         ],
+         "place_id" : "ChIJcy-hcktZwokRqCDQUUYDl1Y",
+         "plus_code" : {
+            "compound_code" : "PXRV+XG New York",
+            "global_code" : "87G7PXRV+XG"
+         },
+         "rating" : 2.8,
+         "reference" : "ChIJcy-hcktZwokRqCDQUUYDl1Y",
+         "types" : [ "cafe", "point_of_interest", "store", "food", "establishment" ],
+         "user_ratings_total" : 19
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "471 Broadway, New York, NY 10013, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7212564,
+               "lng" : -74.000557
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.72258132989273,
+                  "lng" : -73.99909237010728
+               },
+               "southwest" : {
+                  "lat" : 40.71988167010728,
+                  "lng" : -74.00179202989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Think Coffee",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110271092215174479867\"\u003eMaud Thilmany\u003c/a\u003e"
+               ],
+               "photo_reference" : "ARywPALedEcitvzv9bdsxzq8jc2AjUqqnJ90UZ5w9-O44wuAmixHV66bEkVAVKlMDmYcuKP-1-7LlwzHUoYM_ItwjEn4wdNa61TIVxB7nM0s97rBW5yc-RIAjFC0axv2byQojvtXbvuN3_GiLM1rA_QCJHEqw9vEVroo2Oi4rw3doR03rkvh",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJRQ24LiZZwokRmZd3-UK6sMQ",
+         "plus_code" : {
+            "compound_code" : "PXCX+GQ New York",
+            "global_code" : "87G7PXCX+GQ"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJRQ24LiZZwokRmZd3-UK6sMQ",
+         "types" : [ "cafe", "point_of_interest", "store", "food", "establishment" ],
+         "user_ratings_total" : 85
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "860 Manhattan Ave, Brooklyn, NY 11222, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7292797,
+               "lng" : -73.9537521
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.73063072989272,
+                  "lng" : -73.95236007010729
+               },
+               "southwest" : {
+                  "lat" : 40.72793107010728,
+                  "lng" : -73.95505972989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Upright Coffee",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113617478764357341974\"\u003eAna Sofía Vázquez\u003c/a\u003e"
+               ],
+               "photo_reference" : "ARywPAKtll7-twWRRptH-vJCxBLYho2LD4ziXxGHxqe4yRAPbaUV9PQTB-NW8KTdGVC0CmcUd96D-isCRp8tLf1buzfhTto87tXPcTSVEdLCJDQpDnXLACiKNI0RhQ0_2dTirzc_Dg069dbhJiA3d9dJNeRr3xmMyLdYizdT2UdxtBSN29m9",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJ1zCN0kBZwokRnmqR15y1dDo",
+         "plus_code" : {
+            "compound_code" : "P2HW+PH Brooklyn, New York",
+            "global_code" : "87G8P2HW+PH"
+         },
+         "price_level" : 1,
+         "rating" : 4.6,
+         "reference" : "ChIJ1zCN0kBZwokRnmqR15y1dDo",
+         "types" : [ "cafe", "point_of_interest", "store", "food", "establishment" ],
+         "user_ratings_total" : 78
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "13 Stanton St, New York, NY 10002, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7224318,
+               "lng" : -73.992346
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.72386162989272,
+                  "lng" : -73.99095662010727
+               },
+               "southwest" : {
+                  "lat" : 40.72116197010727,
+                  "lng" : -73.99365627989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "BUNGEE Coffee",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4968,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104792051127343477078\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ARywPALvt2doJlM60ADpWGgpJArJym-KRKQqQCsa5uoVUJnOr3RsSrxfb9SRH1B1MLNkUwrd-X0WGwAV0oOvWpXA_a-LDi5fGnHGd-lJRaYY6XJ86dgKblUOw_9gNLp5KdnjiFQAoLty4nTdmRsOhj6NYIuQLKItW4h1UF5ywZbGwtxjxPNS",
+               "width" : 3726
+            }
+         ],
+         "place_id" : "ChIJw_L7o8BZwokRKbQ7ZRSqdO0",
+         "plus_code" : {
+            "compound_code" : "P2C5+X3 New York",
+            "global_code" : "87G8P2C5+X3"
+         },
+         "rating" : 5,
+         "reference" : "ChIJw_L7o8BZwokRKbQ7ZRSqdO0",
+         "types" : [ "cafe", "point_of_interest", "store", "food", "establishment" ],
+         "user_ratings_total" : 21
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "529 Atlantic Ave, Brooklyn, NY 11217, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.6852289,
+               "lng" : -73.97998149999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.68650647989272,
+                  "lng" : -73.97868137010727
+               },
+               "southwest" : {
+                  "lat" : 40.68380682010728,
+                  "lng" : -73.98138102989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Poetica Coffee",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114078244014852269633\"\u003eNurdina Kanatova\u003c/a\u003e"
+               ],
+               "photo_reference" : "ARywPALMkO1NZZK53tIlqYGRrNmwwGJHMdrw7qETb_hpBBCIm1dEEGPPbnukRSXKwzr0hIlvvpnmqP_x5b_8z9pkDjfSI6g0E9P2ujFkkB8wgKrdHTrUv5A0jwqfznAP4ptP12v62qdrMZuNl5saMO6PwpQxhldHHRUzPkqNdnmEgKmEqrzW",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJp2O8jiFbwokRzKwzPAdhVfw",
+         "plus_code" : {
+            "compound_code" : "M2PC+32 New York",
+            "global_code" : "87G8M2PC+32"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJp2O8jiFbwokRzKwzPAdhVfw",
+         "types" : [ "cafe", "point_of_interest", "store", "food", "establishment" ],
+         "user_ratings_total" : 60
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "328 W 44th St, New York, NY 10036, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.75903030000001,
+               "lng" : -73.99025499999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.76040877989272,
+                  "lng" : -73.98886892010728
+               },
+               "southwest" : {
+                  "lat" : 40.75770912010728,
+                  "lng" : -73.99156857989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "St Kilda Coffee",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2268,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112898702493214087687\"\u003eNora Abdul Raoff\u003c/a\u003e"
+               ],
+               "photo_reference" : "ARywPAL0Jhi3ujS8XDM7Zru7ECfv-9pebrjk92HgHQcK1xPRtrhxQreVGYBIAX9NBWKqP2lHRZQ4ozdgNw5CDTX9yOjYIvWuzczQrZptizgj95TC0G1pykgNVRf3hBHu64Y7xAqBxlnxilof54WTyt2SdJOMpPTOMMJl8BsCqKQt-cj3e4ZZ",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJzR7LmFNYwokRlXRHqIpPRBw",
+         "plus_code" : {
+            "compound_code" : "Q255+JV New York",
+            "global_code" : "87G8Q255+JV"
+         },
+         "price_level" : 2,
+         "rating" : 4.6,
+         "reference" : "ChIJzR7LmFNYwokRlXRHqIpPRBw",
+         "types" : [ "cafe", "point_of_interest", "store", "food", "establishment" ],
+         "user_ratings_total" : 440
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "2486 Broadway, New York, NY 10025, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.79219680000001,
+               "lng" : -73.9732171
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.79343702989272,
+                  "lng" : -73.97194752010726
+               },
+               "southwest" : {
+                  "lat" : 40.79073737010727,
+                  "lng" : -73.97464717989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Fillup Coffee",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118181529508260888698\"\u003eTicha Ungboriboonpisal\u003c/a\u003e"
+               ],
+               "photo_reference" : "ARywPAKJVfMbwo1YmDh21gsbfocP8aBsJqR25QQ8ejanBB2vEdkPkg2pJwS73w-bj7VjnPiABj1zQxG7Q9EISU-yubTo2mo9-SdTU3_hLe3k-5gYHA2BOj0EWKCtI-19O_3GArzc0VomqVUCf9BVLUD4vEJ3OXnKMgESCITRjsg-eh0l_3X_",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJaU7alitZwokRz5Il57ADk1Q",
+         "plus_code" : {
+            "compound_code" : "Q2RG+VP New York",
+            "global_code" : "87G8Q2RG+VP"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJaU7alitZwokRz5Il57ADk1Q",
+         "types" : [ "cafe", "point_of_interest", "store", "food", "establishment" ],
+         "user_ratings_total" : 91
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "218 8th Ave, New York, NY 10011, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7440349,
+               "lng" : -73.9991091
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.74542077989272,
+                  "lng" : -73.99788592010728
+               },
+               "southwest" : {
+                  "lat" : 40.74272112010728,
+                  "lng" : -74.00058557989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Café-Flor",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111858694580892366871\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ARywPALrgF3MXXv_d3RfIiN_DGJY8Wk0nzs_5Wft71QMLLlGDkA4Sb_MLcwnn5VPXUwPOG5p8AnbJPKEO9WfjSXUWPwflwYvF6CmD1xMXAlaWJoQWUSQm-NDheDYO1ruWrx9r-joPZG6U_RQdynVAEF_ACmyFbALqwPH0u5_gE8XQRhz4T6K",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJ_abIqHtZwokRLWbw0G-lzu8",
+         "plus_code" : {
+            "compound_code" : "P2V2+J9 New York",
+            "global_code" : "87G8P2V2+J9"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJ_abIqHtZwokRLWbw0G-lzu8",
+         "types" : [ "cafe", "point_of_interest", "store", "food", "establishment" ],
+         "user_ratings_total" : 129
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "123 4th Ave, New York, NY 10003, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.733009,
+               "lng" : -73.989712
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.73436452989272,
+                  "lng" : -73.98849077010728
+               },
+               "southwest" : {
+                  "lat" : 40.73166487010727,
+                  "lng" : -73.99119042989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Think Coffee",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3901,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113514124842237270023\"\u003eThink Coffee\u003c/a\u003e"
+               ],
+               "photo_reference" : "ARywPAJBJzI9Ip3-AP3A8fQM4xso-BltMLDVL2_gcnjAZ9L19JaII1L9eyWUIVZ_zRaLYSlGS3YLHw8IzJ2xuvX_IK2lLOWlZNcoeoqMQg8aRDCbclidAcD9dPHlIc_eHs_TZL2-nUFEkIKP69GFZuBZX9z1liYbbUWPuFlaiS-eKYVGUUnX",
+               "width" : 5843
+            }
+         ],
+         "place_id" : "ChIJXWr5O5lZwokRzroDGzxfyC8",
+         "plus_code" : {
+            "compound_code" : "P2M6+64 New York",
+            "global_code" : "87G8P2M6+64"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJXWr5O5lZwokRzroDGzxfyC8",
+         "types" : [ "cafe", "point_of_interest", "store", "food", "establishment" ],
+         "user_ratings_total" : 691
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "19 Doyers St, New York, NY 10013, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7147104,
+               "lng" : -73.9981425
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.71611807989272,
+                  "lng" : -73.99677832010728
+               },
+               "southwest" : {
+                  "lat" : 40.71341842010727,
+                  "lng" : -73.99947797989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Artbean Coffee Roasters",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114812872467665314107\"\u003eMatthew Hang\u003c/a\u003e"
+               ],
+               "photo_reference" : "ARywPALiJYzbK_kr_y5ImvO7WpIzWm6WdLEb6GJ_Sj4rTaMbkkJhZXO8AxIfhEedJULR8bBM1Ywwqw4CzLj_FEQznqoKcDl18Zp73gz3uUEPCZqRzq19WgtlUNTpRhjrMoMB9z4BGPZMhB7_oIK8bPQE_ILNU59m5Rji0atLBp6v9iGHqOGL",
+               "width" : 3000
+            }
+         ],
+         "place_id" : "ChIJe5A9k8ZbwokRgdccyrMz6FM",
+         "plus_code" : {
+            "compound_code" : "P272+VP New York",
+            "global_code" : "87G8P272+VP"
+         },
+         "rating" : 4.9,
+         "reference" : "ChIJe5A9k8ZbwokRgdccyrMz6FM",
+         "types" : [
+            "cafe",
+            "art_gallery",
+            "point_of_interest",
+            "store",
+            "food",
+            "establishment"
+         ],
+         "user_ratings_total" : 79
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "1273 1st Ave., New York, NY 10065, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7656643,
+               "lng" : -73.95781599999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.76698492989271,
+                  "lng" : -73.95637832010729
+               },
+               "southwest" : {
+                  "lat" : 40.76428527010727,
+                  "lng" : -73.95907797989274
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Gregorys Coffee",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102255951456062056843\"\u003eInna Z\u003c/a\u003e"
+               ],
+               "photo_reference" : "ARywPALaOSwRuEfKw9PRpBDRBXKqNcjUlYQkbizX1s9MEYJR8ppK_NFDTetOO7ZI5t4Yt8ajMsCeX85_jeqfsWCovEIQ76FXnx76ljnhykEWo-M-WMGiP935PoxInhZJkhksaBnj084RtKJzVQ5bmaH21syJysSEi4gt8ypH1jx3ikEU78EP",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJtyw2PcJYwokRd030F8519lI",
+         "plus_code" : {
+            "compound_code" : "Q28R+7V New York",
+            "global_code" : "87G8Q28R+7V"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJtyw2PcJYwokRd030F8519lI",
+         "types" : [ "cafe", "point_of_interest", "store", "food", "establishment" ],
+         "user_ratings_total" : 270
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "121 Mott St, New York, NY 10013, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7180766,
+               "lng" : -73.99710569999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.71941137989272,
+                  "lng" : -73.99571287010728
+               },
+               "southwest" : {
+                  "lat" : 40.71671172010728,
+                  "lng" : -73.99841252989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "12 Corners",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2322,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104256650970562810424\"\u003eAlfonso Lopez\u003c/a\u003e"
+               ],
+               "photo_reference" : "ARywPALLF0SsALacNK5vtJeLlPFKy849lwUAl12HZxjSQJXSAW8tsQ0JjAechd2igIniqm41pdu_rBryELxqOqFnwkOael5CF8OEGGPlJJjsPYDTXTDjk65aKy5OWR6uM59VSj_nF91XM9UUaHOEvU_-QKx0es0REpOrrhXqDGGoMwsK9Tvi",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJNd93JYhZwokRFoY0eSMOuEw",
+         "plus_code" : {
+            "compound_code" : "P293+65 New York",
+            "global_code" : "87G8P293+65"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJNd93JYhZwokRFoY0eSMOuEw",
+         "types" : [
+            "cafe",
+            "point_of_interest",
+            "bakery",
+            "store",
+            "food",
+            "establishment"
+         ],
+         "user_ratings_total" : 100
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "10 E 52nd St, New York, NY 10022, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7596054,
+               "lng" : -73.97548789999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.76090532989272,
+                  "lng" : -73.97417962010726
+               },
+               "southwest" : {
+                  "lat" : 40.75820567010728,
+                  "lng" : -73.97687927989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Blue Bottle Coffee",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100452087023175903813\"\u003eSunny Wang\u003c/a\u003e"
+               ],
+               "photo_reference" : "ARywPALbQHMfPkuYpTp5alaxcJc807MQIs4yBb9a9pHKfNFKf1Hnzik1jvcvxtE90u13y4FEqiAtiFCF1KA0CVKRd5m3beV4CFXWTgPS3GpY7HnYAoNNGVNS5Pah4hJubZLI1G_kPDzGFwQ-Pav4uKjCGSO6jVWX9eeH9fO7rAfQQWTgb9gJ",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJfYfBk_tYwokRozvC5UCvOWM",
+         "plus_code" : {
+            "compound_code" : "Q25F+RR New York",
+            "global_code" : "87G8Q25F+RR"
+         },
+         "price_level" : 2,
+         "rating" : 4.4,
+         "reference" : "ChIJfYfBk_tYwokRozvC5UCvOWM",
+         "types" : [ "cafe", "point_of_interest", "store", "food", "establishment" ],
+         "user_ratings_total" : 718
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "986 6th Ave, New York, NY 10018, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.751332,
+               "lng" : -73.9863021
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.75275857989271,
+                  "lng" : -73.98509432010728
+               },
+               "southwest" : {
+                  "lat" : 40.75005892010727,
+                  "lng" : -73.98779397989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Birch Coffee",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111678269256482995658\"\u003eAnn Boehm\u003c/a\u003e"
+               ],
+               "photo_reference" : "ARywPAIxgTzqyZP_DKV23OCBtDZgWskEwGUir6sk1sPESIq11-JALh_Z4w8wO77TFXyNx5YicfXO1SE060v-OYp8i57o6YeBdoE3wxdf8o2qhgjleD-rZrYiWx4tJSozlD4kUU3i8D4zXPnf6bbhYPJmm51ZBNyTHfaLgz-VUxz-jRt3bkdj",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJBdNE38tZwokRkCSrGbnwYow",
+         "plus_code" : {
+            "compound_code" : "Q227+GF New York",
+            "global_code" : "87G8Q227+GF"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJBdNE38tZwokRkCSrGbnwYow",
+         "types" : [ "cafe", "point_of_interest", "store", "food", "establishment" ],
+         "user_ratings_total" : 15
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "133 Roebling St, Brooklyn, NY 11211, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7147548,
+               "lng" : -73.9566006
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.71611612989273,
+                  "lng" : -73.95526927010728
+               },
+               "southwest" : {
+                  "lat" : 40.71341647010728,
+                  "lng" : -73.95796892989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Oslo Coffee Roasters",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102120567750037893071\"\u003eMary Ríos\u003c/a\u003e"
+               ],
+               "photo_reference" : "ARywPAIhRmLgT7hSHsHudHP-coWAGtbvdJftkwM8XvOQp8m5g7kU-dAXEC4gafYaldGfuIKc9SraqIVVPM1Z34JwA1HbU8SW4BRkZKXRB6Ph15tvVSdDdhKG_-ft_grltwdA5AOSHEPFpHzBqGM5hcbWDIvsf-ixPnzWSlQni70FfRrnYjd3",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJD4caVl5ZwokRQjQzzxXV0Sw",
+         "plus_code" : {
+            "compound_code" : "P27V+V9 New York",
+            "global_code" : "87G8P27V+V9"
+         },
+         "price_level" : 1,
+         "rating" : 4.3,
+         "reference" : "ChIJD4caVl5ZwokRQjQzzxXV0Sw",
+         "types" : [ "cafe", "point_of_interest", "store", "food", "establishment" ],
+         "user_ratings_total" : 298
+      }
+   ],
+   "status" : "OK"
+}
